@@ -1,0 +1,24 @@
+.container {
+    color: black;
+    font-size: large;
+    
+
+}
+#weight-guide{
+    text-align: center;
+}
+.button{
+    margin-top: 50px;
+    margin-left:320px;
+    background-color: palevioletred;
+    color: black;
+    padding:7px 15px;
+    border-radius: 7px;
+    font-size: large;
+    cursor:pointer;
+    font-weight: bold;
+}
+#results{
+    text-align: center;
+    margin-top: 50px;
+}
